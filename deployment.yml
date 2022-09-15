@@ -21,7 +21,7 @@ spec:
         - name: LOCAL_ENDPOINT_PORT
           value: "30120"
         - name: REMOTE
-          value: "Your server IP"
+          value: "103.98.151.95"
         - name: LOCAL_ENDPOINT_IP
           valueFrom:
             fieldRef:
